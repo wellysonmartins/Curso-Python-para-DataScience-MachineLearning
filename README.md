@@ -6,10 +6,10 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 2. Configuração do ambiente de trabalho
 - [x] 3. Jupyter Notebook
 - [x] 4. Curso relâmpago de Python
-- [x] 5. Python para Análise de dados - Numpy
+- [x] 5. Python para análise de dados - Numpy
 - [x] 6. Python para análise de dados - Pandas
 - [x] 7. Python para análise de dados - Exercícios Pandas
-- [x] 8. Python para Visualização de dados - Matplotlib
+- [x] 8. Python para visualização de dados - Matplotlib
 - [ ] 9. Python para visualização de dados - Seaborn
 - [ ] 10. Python para visualização de dados - Visualização de dados Pandas
 - [ ] 11. Python para visualização de dados - Plotly e Cufflinks
