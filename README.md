@@ -10,8 +10,8 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 6. Python para análise de dados - Pandas
 - [x] 7. Python para análise de dados - Exercícios Pandas
 - [x] 8. Python para visualização de dados - Matplotlib
-- [X] 9. Python para visualização de dados - Seaborn
-- [ ] 10. Python para visualização de dados - Visualização de dados Pandas
+- [x] 9. Python para visualização de dados - Seaborn
+- [x] 10. Python para visualização de dados - Visualização de dados Pandas
 - [ ] 11. Python para visualização de dados - Plotly e Cufflinks
 - [ ] 12. Python para visualização de dados - Plots geográficos
 - [ ] 13. Projetos de análise de dados
