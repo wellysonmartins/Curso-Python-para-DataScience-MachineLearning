@@ -12,7 +12,7 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 8. Python para visualização de dados - Matplotlib
 - [x] 9. Python para visualização de dados - Seaborn
 - [x] 10. Python para visualização de dados - Visualização de dados Pandas
-- [ ] 11. Python para visualização de dados - Plotly e Cufflinks
+- [x] 11. Python para visualização de dados - Plotly e Cufflinks
 - [ ] 12. Python para visualização de dados - Plots geográficos
 - [ ] 13. Projetos de análise de dados
 - [ ] 14. Introdução ao Machine Learning
