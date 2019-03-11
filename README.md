@@ -14,7 +14,7 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 10. Python para visualização de dados - Visualização de dados Pandas
 - [x] 11. Python para visualização de dados - Plotly e Cufflinks
 - [x] 12. Python para visualização de dados - Plots geográficos
-- [ ] 13. Projetos de análise de dados
+- [x] 13. Projetos de análise de dados
 - [ ] 14. Introdução ao Machine Learning
 - [ ] 15. Regressões lineares
 - [ ] 16. Balanço Viés-Variância
