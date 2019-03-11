@@ -16,7 +16,7 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 12. Python para visualização de dados - Plots geográficos
 - [x] 13. Projetos de análise de dados
 - [x] 14. Introdução ao Machine Learning
-- [ ] 15. Regressões lineares
+- [x] 15. Regressões lineares
 - [ ] 16. Balanço Viés-Variância
 - [ ] 17. Regressão Logística
 - [ ] 18. K Nearest Neighbors (KNNs)
