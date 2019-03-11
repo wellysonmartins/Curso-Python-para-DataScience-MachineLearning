@@ -17,7 +17,7 @@ Arquivos do curso de Machine Learning, DataScience e Python
 - [x] 13. Projetos de análise de dados
 - [x] 14. Introdução ao Machine Learning
 - [x] 15. Regressões lineares
-- [ ] 16. Balanço Viés-Variância
+- [x] 16. Balanço Viés-Variância
 - [ ] 17. Regressão Logística
 - [ ] 18. K Nearest Neighbors (KNNs)
 - [ ] 19. Árvores de decisão e Florestas Aleatórias
